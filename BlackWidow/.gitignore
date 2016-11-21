@@ -1,0 +1,13 @@
+/target/
+*.com  
+*.class  
+*.dll  
+*.exe  
+*.o  
+*.so
+*.idea/* 
+*.settings/*
+*.project
+.springBeans
+.classpath
+Users/Admini*
